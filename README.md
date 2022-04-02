@@ -28,8 +28,11 @@ No strict latency concerns.
 
 Interpretability is partially important.
 
+
 2. Machine Learning Probelm
+
 2.1 Data
+
 2.1.1 Data Overview
 - Data will be in a file Train.csv
 - Train.csv contains 5 columns : qid1, qid2, question1, question2, is_duplicate
