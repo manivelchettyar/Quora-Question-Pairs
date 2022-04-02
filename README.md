@@ -12,6 +12,7 @@ We are tasked with predicting whether a pair of questions are duplicates or not.
 
 1.2 Sources/Useful Links
 Source : https://www.kaggle.com/c/quora-question-pairs
+
 __ Useful Links __
 Discussions : https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb/comments
 Kaggle Winning Solution and other approaches: https://www.dropbox.com/sh/93968nfnrzh8bp5/AACZdtsApc1QSTQc7X0H3QZ5a?dl=0
@@ -26,6 +27,7 @@ No strict latency concerns.
 
 
 Interpretability is partially important.
+
 2. Machine Learning Probelm
 2.1 Data
 2.1.1 Data Overview
